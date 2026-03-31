@@ -66,4 +66,5 @@ Tanya Rajput Cloud Computing & Automation VIT Bhopal University
 
 Status Project completed Ready for submission
 
-Project Completed ✔ Ready for Submission ✔
+Project Completed
+Ready for Submission 
