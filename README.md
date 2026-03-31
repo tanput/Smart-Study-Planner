@@ -19,7 +19,7 @@ Loads previous tasks when the program restarts
 
 Simple menu-driven interface
 
-🛠 Technologies Used
+# Technologies Used
 
 Java
 
@@ -31,11 +31,11 @@ ArrayList
 
 Console-based UI
 
-📁 Project Structure
+# Project Structure
 
 SmartStudyPlanner/ │── Main.java │── Task.java │── TaskManager.java │── tasks.dat (Auto generated file) │── README.md │── screenshots
 
-📸 Screenshots
+# Screenshots
 
 Adding a task
 
